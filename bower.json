@@ -1,0 +1,39 @@
+{
+  "name": "bower-google-analytics",
+  "version": "0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomatolabs/bower-google-analytics"
+  },
+  "title": "Bower Google Analytics",
+  "description": "Track google analytics (ga.js) 's changes and cache the newest version as a bower project. this is just for the convenience of coders who want to use local copy of ga.js in their sites.",
+  "keywords": [
+    "bower",
+    "ga",
+    "ga.js",
+    "google",
+    "analytics",
+    "javascript",
+    "tomatolabs",
+    "local",
+    "copy"
+  ],
+  "homepage": "https://github.io/tomatolabs/bower-google-analytics",
+  "author": {
+    "name": "Henry Leu",
+    "url": "https://github.com/henryleu"
+  },
+  "maintainers": [
+    {
+      "name": "Henry Leu",
+      "url": "https://github.com/henryleu"
+    }
+  ],
+
+  "licenses": [
+    {
+      "type": "Apache License 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ]
+}
