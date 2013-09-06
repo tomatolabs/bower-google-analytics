@@ -1,6 +1,6 @@
 {
   "name": "bower-google-analytics",
-  "version": "0.1",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/tomatolabs/bower-google-analytics"
